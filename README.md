@@ -1,4 +1,5 @@
-[![MasterHead](https://tebyansmart.com/wp-content/uploads/2023/01/What-is-Frontend-Development.jpg)]
+[![MasterHead](<img src="https://tebyansmart.com/wp-content/uploads/2023/01/What-is-Frontend-Development.jpg" alt="Frontend Development Banner" width="600">
+)]
 <h1 align="center">Hi 👋, I'm ROUSHAN KUMAR GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.stockcake.com/public/6/d/8/6d826f8d-40fa-4197-beca-fa36adf07ada_large/coder-at-work-stockcake.jpg">
